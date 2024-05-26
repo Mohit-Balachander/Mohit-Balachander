@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
   
   <!-- HTML -->
   <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+ <!-- MySQL -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
   
   <!-- CSS -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
