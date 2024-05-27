@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ##  Languages and Tools:
 
-<p align="center">
+<p align="">
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
   
@@ -29,4 +29,10 @@ You can click the Preview link to take a look at your changes.
   
   <!-- Visual Studio Code -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+  <!-- MySQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+  <!-- Git -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+
 </p>
