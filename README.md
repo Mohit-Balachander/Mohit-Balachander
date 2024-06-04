@@ -1,8 +1,13 @@
 ## 👋 Hi, I’m Mohit Balachander
 
-- 👀 I’m deeply passionate about building dynamic, user-friendly web applications using the MERN stack for full-stack development.
-- 🌱 Currently, I’m diving deep into HTML, CSS, and JavaScript while working on a clone project.
-- 📫 You can reach me at mohitbalachander@gmail.com
+👀 I’m deeply passionate about building dynamic, user-friendly web applications using the MERN stack for full-stack development.
+
+🌱 I’m currently learning: NodeJS.
+
+💬 Ask me about: HTML, CSS and JavaScript.
+
+📫 You can reach me at mohitbalachander@gmail.com
+
 
 
 <!---
